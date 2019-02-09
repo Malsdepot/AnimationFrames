@@ -13,7 +13,7 @@ register(
 	"python_fu_animation_frames",
 	"Add number pf frames",
 	"Add number of layers to be frames for animation",
-	"Brian Seeley", "Brian Seeley", "2019",
+	"Malsdepot", "Malsdepot", "2019",
 	"Add Animation Frames...",
 	"",
 	[
