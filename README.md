@@ -1,2 +1,2 @@
 # AnimationFrames
-Plugin for GIMP to generate an image with layers ready for use as animation frames
+Plugin for GIMP to generate an many copies of existing image with layers ready for use as animation frames.
